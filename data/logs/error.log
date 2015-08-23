@@ -1,0 +1,226 @@
+2015/06/28 18:23:22 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/06/28 18:23:22 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/06/28 18:23:22 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/06/29 00:17:11 [/shopping/confirm.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;mail_templates/order_mail.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/06/29 22:46:37 [/ecadmin/mail/history.php] Warning(E_WARNING): Missing argument 4 for SC_PageNavi::__construct(), called in /var/www/data/class/pages/admin/mail/LC_Page_Admin_Mail_History.php on line 120 and defined on [/var/www/data/class/SC_PageNavi.php(55)] from 192.168.56.1
+2015/06/29 22:53:46 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/06/29 22:53:46 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/06/29 22:53:46 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/06/30 01:03:56 [/mypage/refusal.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;mail_templates/customer_refusal_mail.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/06/30 01:11:54 [/mypage/refusal.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;mail_templates/customer_refusal_mail.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/06/30 22:44:59 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/06/30 22:44:59 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/06/30 22:48:55 [/ecadmin/ownersstore/index.php] Warning(E_WARNING): copy(/var/www/html/../data/class_extends/helper_extends/SC_Helper_Menu_Ex.php) [<a href='function.copy'>function.copy</a>]: failed to open stream: 許可がありません on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu.php(84)] from 192.168.56.1
+2015/06/30 22:49:46 [/ecadmin/design/plg_CustomMenu_menu.php] Fatal error(E_ERROR): Class 'SC_Helper_Menu_Ex' not found on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu_LC_Page_Admin_Design_Menu.php(72)] from 192.168.56.1
+customer_id = 5
+2015/06/30 22:50:05 [/ecadmin/design/plg_CustomMenu_menu.php] Fatal error(E_ERROR): Class 'SC_Helper_Menu_Ex' not found on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu_LC_Page_Admin_Design_Menu.php(72)] from 192.168.56.1
+customer_id = 5
+2015/06/30 22:50:42 [/ecadmin/design/plg_CustomMenu_menu.php] Fatal error(E_ERROR): Class 'SC_Helper_Menu_Ex' not found on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu_LC_Page_Admin_Design_Menu.php(72)] from 192.168.56.1
+customer_id = 5
+2015/06/30 22:52:09 [/ecadmin/design/plg_CustomMenu_menu.php] Fatal error(E_ERROR): Class 'SC_Helper_Menu_Ex' not found on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu_LC_Page_Admin_Design_Menu.php(72)] from 192.168.56.1
+customer_id = 5
+2015/06/30 22:54:29 [/ecadmin/design/plg_CustomMenu_menu.php] Fatal error(E_ERROR): Class 'SC_Helper_Menu_Ex' not found on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu_LC_Page_Admin_Design_Menu.php(72)] from 192.168.56.1
+customer_id = 5
+2015/06/30 22:54:41 [/ecadmin/design/plg_CustomMenu_menu.php] Fatal error(E_ERROR): Class 'SC_Helper_Menu_Ex' not found on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu_LC_Page_Admin_Design_Menu.php(72)] from 192.168.56.1
+customer_id = 5
+2015/06/30 22:57:58 [/ecadmin/ownersstore/index.php] Warning(E_WARNING): copy(/var/www/html/../data/class_extends/helper_extends/SC_Helper_Menu_Ex.php) [<a href='function.copy'>function.copy</a>]: failed to open stream: 許可がありません on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu.php(84)] from 192.168.56.1
+2015/06/30 22:58:19 [/ecadmin/design/plg_CustomMenu_menu.php] Fatal error(E_ERROR): Class 'SC_Helper_Menu_Ex' not found on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu_LC_Page_Admin_Design_Menu.php(72)] from 192.168.56.1
+customer_id = 5
+2015/06/30 23:18:11 [/products/review.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/06/30 23:18:11 [/products/review.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/06/30 23:42:03 [/products/search.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/06/30 23:42:03 [/products/search.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/06/30 23:42:03 [/products/search.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/01 00:27:26 [/ecadmin/ownersstore/index.php] Warning(E_WARNING): copy(/var/www/html/../data/class_extends/helper_extends/SC_Helper_Menu_Ex.php) [<a href='function.copy'>function.copy</a>]: failed to open stream: 許可がありません on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu.php(84)] from 192.168.56.1
+2015/07/01 00:27:38 [/ecadmin/design/plg_CustomMenu_menu.php] Fatal error(E_ERROR): Class 'SC_Helper_Menu_Ex' not found on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu_LC_Page_Admin_Design_Menu.php(72)] from 192.168.56.1
+customer_id = 
+2015/07/01 00:28:26 [/ecadmin/design/plg_CustomMenu_menu.php] Fatal error(E_ERROR): Class 'SC_Helper_Menu_Ex' not found on [/var/www/data/downloads/plugin/CustomMenu/plg_CustomMenu_LC_Page_Admin_Design_Menu.php(72)] from 192.168.56.1
+customer_id = 
+2015/07/01 23:47:40 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/01 23:47:40 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/01 23:47:40 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/02 01:07:25 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:07:25 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:07:25 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/mypage/pkg-notice.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:07:25 [/preview/index.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/mypage/pkg-notice.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:08:07 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:08:07 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:08:07 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/mypage/pkg-notice.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:08:07 [/preview/index.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/mypage/pkg-notice.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:52:35 [/mypage/pkg_notice.php] Warning(E_WARNING): require_once(/var/www/html/../data/class_extends/page_extends/abouts/LC_Page_Mypage_Pkg-notice_Ex.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: そのようなファイルやディレクトリはありません on [/var/www/html/mypage/pkg_notice.php(3)] from 192.168.56.1
+2015/07/02 01:52:35 [/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/var/www/html/../data/class_extends/page_extends/abouts/LC_Page_Mypage_Pkg-notice_Ex.php' (include_path='/var/www/data/module:.:/usr/share/pear:/usr/share/php') on [/var/www/html/mypage/pkg_notice.php(3)] from 192.168.56.1
+customer_id = 5
+2015/07/02 01:52:52 [/mypage/pkg_notice.php] Warning(E_WARNING): require_once(/var/www/html/../data/class_extends/page_extends/abouts/LC_Page_Mypage_Pkg-notice_Ex.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: そのようなファイルやディレクトリはありません on [/var/www/html/mypage/pkg_notice.php(3)] from 192.168.56.1
+2015/07/02 01:52:52 [/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/var/www/html/../data/class_extends/page_extends/abouts/LC_Page_Mypage_Pkg-notice_Ex.php' (include_path='/var/www/data/module:.:/usr/share/pear:/usr/share/php') on [/var/www/html/mypage/pkg_notice.php(3)] from 192.168.56.1
+customer_id = 5
+2015/07/02 01:54:33 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:54:33 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:54:33 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:54:35 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:54:35 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:54:35 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:54:36 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:54:36 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:54:36 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:54:37 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:54:37 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:54:37 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:55:07 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:55:07 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:55:07 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:55:08 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:55:08 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:55:08 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:55:09 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:55:09 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:55:09 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:56:59 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:56:59 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:56:59 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:57:00 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:57:00 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:57:00 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:57:17 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:57:17 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:57:17 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/user_data/mypage/pkg_notice.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:57:17 [/preview/index.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/user_data/mypage/pkg_notice.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:57:25 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:57:25 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:57:25 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:57:26 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:57:26 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:57:26 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:58:13 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:58:13 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:58:13 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:58:14 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:58:14 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:58:14 [/mypage/pkg_notice.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;/var/www/html/../data/Smarty/templates/bootstrap3/.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/02 01:58:17 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:58:17 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 01:59:02 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 01:59:02 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 02:03:32 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 02:03:32 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 02:03:56 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 02:03:56 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 02:04:25 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 02:04:25 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 02:06:10 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 02:06:10 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 02:06:41 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 02:06:41 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 02:06:54 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 02:06:54 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 02:06:58 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 02:06:58 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/02 02:09:15 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/02 02:09:15 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/03 00:43:50 [/user_data/mypage/pkg_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 00:43:55 [/user_data/mypage/exp_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 00:43:56 [/user_data/mypage/pkg_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 00:44:47 [/user_data/mypage/pkg_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 00:44:48 [/user_data/mypage/exp_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 00:46:53 [/user_data/mypage/pkg_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 00:46:54 [/user_data/mypage/exp_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 00:50:06 [/user_data/mypage/pkg_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 00:50:07 [/user_data/mypage/exp_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 00:58:50 [/user_data/mypage/pkg_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 01:01:30 [/user_data/mypage/pkg_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 01:01:44 [/user_data/mypage/exp_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 01:01:47 [/user_data/mypage/pkg_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/03 01:01:54 [/user_data/mypage/exp_info.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+2015/07/04 15:29:24 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/04 15:29:24 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/04 15:29:24 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/04 17:29:15 [/user_data/mypage/pkg_notice.php] Fatal error(E_USER_ERROR): Smarty error: [in /var/www/html/../data/Smarty/templates/bootstrap3/user_data/mypage/pkg_notice.tpl line 62]: syntax error: unrecognized tag: $arrForm[$key1].length}--        &gt;&quot; style=&quot;&lt;!--{$arrErr[$key1]|sfGetErrorColor (Smarty_Compiler.class.php, line 446) on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 192.168.56.1
+customer_id = 5
+/var/www/html/user_data/mypage/pkg_notice.php(7): LC_Page_Mypage_Pkg_Notice_Ex->process
+/var/www/data/class_extends/page_extends/mypage/LC_Page_Mypage_Pkg_Notice_Ex.php(54): LC_Page_Mypage_Pkg_Notice->process
+/var/www/data/class/pages/mypage/LC_Page_Mypage_Pkg_Notice.php(57): LC_Page->sendResponse
+/var/www/data/class/pages/LC_Page.php(155): SC_Display->prepare
+/var/www/data/class/SC_Display.php(80): SC_View->getResponse
+/var/www/data/class/SC_View.php(105): Smarty->fetch
+/var/www/data/module/Smarty/libs/Smarty.class.php(1264): include
+/var/www/data/Smarty/templates_c/bootstrap3/%%F1^F15^F158E3F4%%site_frame.tpl.php(171): Smarty->_smarty_include
+/var/www/data/module/Smarty/libs/Smarty.class.php(1870): include
+/var/www/data/Smarty/templates_c/bootstrap3/%%58^587^5876E692%%site_main.tpl.php(32): Smarty->_smarty_include
+/var/www/data/module/Smarty/libs/Smarty.class.php(1868): Smarty->_compile_resource
+/var/www/data/module/Smarty/libs/Smarty.class.php(1423): Smarty->_compile_source
+/var/www/data/module/Smarty/libs/Smarty.class.php(1490): Smarty_Compiler->_compile_file
+/var/www/data/module/Smarty/libs/Smarty_Compiler.class.php(312): Smarty_Compiler->_compile_tag
+/var/www/data/module/Smarty/libs/Smarty_Compiler.class.php(446): Smarty_Compiler->_syntax_error
+/var/www/data/module/Smarty/libs/Smarty_Compiler.class.php(2256): Smarty->_trigger_fatal_error
+/var/www/data/module/Smarty/libs/Smarty.class.php(1816): Smarty->trigger_error
+/var/www/data/module/Smarty/libs/Smarty.class.php(1094): trigger_error
+2015/07/05 00:58:13 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 192.168.56.1
+2015/07/05 00:58:13 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 192.168.56.1
+2015/07/08 00:27:37 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/08 00:27:37 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/08 00:27:37 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/11 02:19:20 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/11 02:19:20 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/11 02:19:20 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/11 02:20:15 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/11 02:20:15 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/11 02:20:15 [/ecadmin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [/var/www/data/class/pages/admin/system/LC_Page_Admin_System_Editdb.php(201)] from 192.168.56.1
+2015/07/12 11:07:12 [/preview/index.php] Warning(E_USER_WARNING): ページ情報を取得できませんでした。 on [/var/www/data/class/helper/SC_Helper_PageLayout.php(58)] from 106.130.9.122
+2015/07/12 11:07:12 [/preview/index.php] Warning(E_USER_WARNING): メイン部のテンプレートが存在しません。[/var/www/html/../data/Smarty/templates/bootstrap3/.tpl] on [/var/www/data/class/helper/SC_Helper_PageLayout.php(65)] from 106.130.9.122
+2015/07/12 17:32:11 [/mypage/refusal.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;mail_templates/customer_refusal_mail.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 122.214.1.177
+2015/07/12 22:55:54 [/pegasus/customer/index.php] Warning(E_WARNING): fputcsv() [<a href='function.fputcsv'>function.fputcsv</a>]: iconv stream filter (&quot;utf-8&quot;=&gt;&quot;cp932&quot;): invalid multibyte sequence on [/var/www/data/class/helper/SC_Helper_CSV.php(214)] from 122.214.1.177
+2015/07/13 09:57:44 [/mypage/refusal.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;mail_templates/customer_refusal_mail.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 122.214.1.177
+2015/07/13 10:52:24 [/mypage/refusal.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;mail_templates/customer_refusal_mail.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 122.214.1.177
+2015/07/13 12:32:08 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='45.5203146' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 157.55.39.58
+2015/07/13 13:55:29 [/mypage/refusal.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;mail_templates/customer_refusal_mail.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 122.214.1.177
+2015/07/14 00:30:21 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='sense-pegasus.sense-si.com' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 186.216.94.30
+2015/07/14 00:30:22 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='127.0.0.1' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 186.216.94.30
+2015/07/14 00:30:23 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='sense-pegasus.sense-si.com' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 186.216.94.30
+2015/07/14 00:30:23 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='sense-pegasus.sense-si.com' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 186.216.94.30
+2015/07/14 00:30:24 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='sense-pegasus.sense-si.com' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 186.216.94.30
+2015/07/14 21:40:46 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='sense-pegasus.sense-si.com' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 112.187.198.169
+2015/07/15 00:23:30 [/mypage/refusal.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: &quot;mail_templates/customer_refusal_mail.tpl&quot; on [/var/www/data/module/Smarty/libs/Smarty.class.php(1094)] from 122.214.1.177
+2015/07/16 23:38:20 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='sense-pegasus.sense-si.com' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 179.236.83.150
+2015/07/16 23:38:21 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='127.0.0.1' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 179.236.83.150
+2015/07/16 23:38:22 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='sense-pegasus.sense-si.com' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 179.236.83.150
+2015/07/16 23:38:22 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='sense-pegasus.sense-si.com' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 179.236.83.150
+2015/07/16 23:38:23 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='sense-pegasus.sense-si.com' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 179.236.83.150
+2015/07/26 01:50:02 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 01:50:16 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 01:52:19 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 01:52:28 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 01:52:40 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:28:58 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:30:08 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:30:10 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:39:46 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:39:48 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:40:32 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:40:34 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:41:07 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:41:09 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:51:49 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:51:50 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:52:00 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(58)] from 122.214.1.177
+customer_id = 12
+2015/07/26 10:56:28 [/user_data/mypage/pkg_notice.php] Fatal error(E_ERROR): Call to undefined function alert() on [/var/www/data/class/pages/mypage/LC_Page_Mypage_Pkg_Notice.php(70)] from 122.214.1.177
+customer_id = 12
+2015/07/26 11:04:41 [/user_data/mypage/pkg_notice.php] Fatal error(E_COMPILE_ERROR): Cannot redeclare SC_Helper_Package::sfEditPkgData() on [/var/www/data/class/helper/SC_Helper_Package.php(59)] from 122.214.1.177
+customer_id = 12
+2015/08/23 15:15:50 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='[2600:3c01::f03c:91ff:fe26:4278]' 設定値='45.79.100.202' リダイレクト先='http://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 2604:a880:800:10::fe:d001
+2015/08/23 15:15:50 [/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='[2600:3c01::f03c:91ff:fe26:4278]' 設定値='45.79.100.202' リダイレクト先='https://45.79.100.202/'  on [/var/www/data/class/SC_Initial.php(542)] from 2604:a880:800:10::fe:d001

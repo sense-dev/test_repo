@@ -1,0 +1,6 @@
+<?php /* Smarty version 2.6.27, created on 2015-07-12 11:19:45
+         compiled from error.tpl */ ?>
+<?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'script_escape', 'error.tpl', 30, false),)), $this); ?>
+
+<?php echo '<div id="undercolumn"><div id="undercolumn_error"><div class="row"><div class="col-sm-10 col-sm-push-1"><div class="message_area panel panel-default margin-top-lg"><!--★エラーメッセージ--><p class="error panel-body text-center">'; ?><?php echo ((is_array($_tmp=$this->_tpl_vars['tpl_error'])) ? $this->_run_mod_handler('script_escape', true, $_tmp) : smarty_modifier_script_escape($_tmp)); ?><?php echo '</p></div></div><div class="col-sm-10 col-sm-push-1 col-md-4 col-md-push-4"><div class="btn_area">'; ?><?php if (((is_array($_tmp=$this->_tpl_vars['return_top'])) ? $this->_run_mod_handler('script_escape', true, $_tmp) : smarty_modifier_script_escape($_tmp))): ?><?php echo '<a href="'; ?><?php echo ((is_array($_tmp=@TOP_URL)) ? $this->_run_mod_handler('script_escape', true, $_tmp) : smarty_modifier_script_escape($_tmp)); ?><?php echo '" class="btn btn-default btn-block">トップページへ</a>'; ?><?php else: ?><?php echo '<a href="javascript:history.back()" class="btn btn-default btn-block">戻る</a>'; ?><?php endif; ?><?php echo '</div></div></div></div></div>'; ?>

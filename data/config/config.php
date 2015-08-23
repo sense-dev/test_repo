@@ -1,0 +1,22 @@
+<?php
+define('ECCUBE_INSTALL', 'ON');
+define('HTTP_URL', 'http://45.79.100.202/');
+define('HTTPS_URL', 'https://45.79.100.202/');
+define('ROOT_URLPATH', '/');
+define('DOMAIN_NAME', '');
+define('DB_TYPE', 'mysql');
+define('DB_USER', 'expuser');
+define('DB_PASSWORD', 'R*kuten0924');
+define('DB_SERVER', '127.0.0.1');
+define('DB_NAME', 'expdb');
+define('DB_PORT', '');
+define('ADMIN_DIR', 'pegasus/');
+define('ADMIN_FORCE_SSL', TRUE);
+define('ADMIN_ALLOW_HOSTS', 'a:0:{}');
+define('AUTH_MAGIC', 'neakofrairajairotraichoupepraefreapraesl');
+define('PASSWORD_HASH_ALGOS', 'sha256');
+define('MAIL_BACKEND', 'mail');
+define('SMTP_HOST', '');
+define('SMTP_PORT', '');
+define('SMTP_USER', '');
+define('SMTP_PASSWORD', '');
